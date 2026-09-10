@@ -1,5 +1,5 @@
-This fork is to change the type of the variable _timezone to float. This fix allows the management of fractional timezones in the Sunfy328 project.  
-https://github.com/Ipposnif/Sunfy328  
+This fork is to change the type of the variable _timezone to float. This fix allows the management of fractional timezones in the Picapot Controller project.  
+https://github.com/Picapot/picapot-controller-ht328
   
 ==============================================================================
 # Dusk2Dawn
